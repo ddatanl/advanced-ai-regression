@@ -1,0 +1,9 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+scikit-learn>=1.3
+jupyterlab>=4.0
+
+# Mocht je met Arima of Prophet willen experimenteren
+# statsmodels>=0.14      # voor ARIMA / SARIMA
+# prophet>=1.1           # voor Prophet
